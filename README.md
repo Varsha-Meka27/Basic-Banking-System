@@ -1,6 +1,7 @@
 # Basic-Banking-System
 
 Sparks Foundation Internship Project : Basic Banking System
+
 Task - Create an app for banking system where user can transfer money from one another.
 
 A Web Application used to transfer money between multiple users.
